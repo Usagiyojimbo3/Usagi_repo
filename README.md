@@ -3,7 +3,7 @@
 feature: thumbnails/external/a7c41ce397ad88e0c285cf39a2d2eb03.jpg
 thumbnail: thumbnails/resized/732afac2e0935c4b5f0359e4d7f4197a_86cf658e.webp
 ---
-# First
+# First student lection
 
 # **Lärdomar**
 
@@ -76,15 +76,12 @@ git remote -v (kontrollera vad som har matat in)
 git push origin main (kontrollera i denna situation så att branch är rätt alltså att (main) stämmer in)
 
 ---
-### *Random test* 😁
-![Usagi Yojimbo The Ronin](https://upload.wikimedia.org/wikipedia/en/0/03/Usagi_Yojimbo_The_Ronin.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled)
+2026-11-17
 
-[This is from Wikipedia beginning with a tite and then use (for the link)](https://en.wikipedia.org/wiki/Usagi_Yojimbo)
+- Inline
 
-Fenced Code Block
-```  
-{  
-  "firstName": "Jonas",  
-  "lastName": "Yahya",    
-}  
-```
+
+- Embedded
+
+
+- Linked
