@@ -1,0 +1,19 @@
+
+        /* Make columns visible */
+        .col,
+        [class*="col-"] {
+            background: #9db1db;
+            border: 1px solid #90caf9;
+            padding: 1rem;
+            text-align: center;
+            font-weight: bold;
+        }
+
+        .row {
+            margin-bottom: 1rem;
+        }
+
+        /* space between rows */
+        .zebra-last-updated {
+            color: #ffffff !important;
+        }
